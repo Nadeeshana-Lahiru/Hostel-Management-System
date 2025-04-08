@@ -1,0 +1,119 @@
+</section><section id="about" class="about section">
+
+            <div class="container">
+
+                <div class="row gy-4">
+
+                    <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up"
+                        data-aos-delay="200">
+                        <img src="assets/img/about.svg" class="img-fluid" alt="About Hostel">
+                        </div>
+
+                    <div class="col-lg-6 content order-last  order-lg-first" data-aos="fade-up" data-aos-delay="100">
+                        <h3>About Hostel Management System</h3>
+                        <p>
+                            Our Hostel Management System is designed to streamline hostel operations, providing students with
+                            a comfortable and organized living environment. We focus on efficiency, transparency, and
+                            student satisfaction.
+                        </p>
+                        <ul>
+                            <li>
+                                <i class="bi bi-diagram-3"></i>
+                                <div>
+                                    <h5>Efficient Allocation</h5>
+                                    <p>Automated room allocation and management for optimal resource utilization.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <i class="bi bi-fullscreen-exit"></i>
+                                <div>
+                                    <h5>Real-time Updates</h5>
+                                    <p>Instant notifications and updates on hostel activities and announcements.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <i class="bi bi-broadcast"></i>
+                                <div>
+                                    <h5>Communication Platform</h5>
+                                    <p>Seamless communication between students, hostel staff, and administration.</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section><section id="services" class="services section light-background">
+
+            <div class="container section-title" data-aos="fade-up">
+                <h2>Services</h2>
+                <p>Our system provides comprehensive solutions to manage and enhance hostel life.</p>
+            </div><div class="container">
+
+                <div class="row gy-4">
+
+                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                        <div class="service-item  position-relative">
+                            <div class="icon">
+                                <i class="bi bi-cash-stack" style="color: #0dcaf0;"></i>
+                            </div>
+                            <a href="#" class="stretched-link">
+                                <h3>Fee Management</h3>
+                            </a>
+                            <p>Manage hostel fees, payments, and dues with ease.</p>
+                        </div>
+                    </div><div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                        <div class="service-item position-relative">
+                            <div class="icon">
+                                <i class="bi bi-calendar4-week" style="color: #fd7e14;"></i>
+                            </div>
+                            <a href="#" class="stretched-link">
+                                <h3>Room Allocation</h3>
+                            </a>
+                            <p>Efficiently allocate rooms based on availability and student preferences.</p>
+                        </div>
+                    </div><div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+                        <div class="service-item position-relative">
+                            <div class="icon">
+                                <i class="bi bi-chat-text" style="color: #20c997;"></i>
+                            </div>
+                            <a href="#" class="stretched-link">
+                                <h3>Complaint Handling</h3>
+                            </a>
+                            <p>Streamlined complaint submission and resolution process.</p>
+                        </div>
+                    </div><div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+                        <div class="service-item position-relative">
+                            <div class="icon">
+                                <i class="bi bi-credit-card-2-front" style="color: #df1529;"></i>
+                            </div>
+                            <a href="#" class="stretched-link">
+                                <h3>Inventory Management</h3>
+                            </a>
+                            <p>Manage hostel inventory and resources effectively.</p>
+                        </div>
+                    </div><div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+                        <div class="service-item position-relative">
+                            <div class="icon">
+                                <i class="bi bi-globe" style="color: #6610f2;"></i>
+                            </div>
+                            <a href="#" class="stretched-link">
+                                <h3>Notice Board</h3>
+                            </a>
+                            <p>Digital notice board for important announcements and updates.</p>
+                        </div>
+                    </div><div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+                        <div class="service-item position-relative">
+                            <div class="icon">
+                                <i class="bi bi-clock" style="color: #f3268c;"></i>
+                            </div>
+                            <a href="#" class="stretched-link">
+                                <h3>Attendance Tracking</h3>
+                            </a>
+                            <p>Monitor student attendance and check-ins efficiently.</p>
+                        </div>
+                    </div></div>
+
+            </div>
